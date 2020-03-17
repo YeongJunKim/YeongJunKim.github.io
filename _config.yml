@@ -101,8 +101,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: colson@korea.ac.kr
-       url: dud3722000@naver.com
+       #url: colson@korea.ac.kr
+       #url: dud3722000@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
