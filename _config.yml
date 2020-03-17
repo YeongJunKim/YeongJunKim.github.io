@@ -113,7 +113,7 @@ author:
       # url: "https://www.facebook.com/picolson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YeongJunKim"
+      # url: "https://github.com/YeongJunKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,7 +132,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+       url: "https://github.com/YeongJunKim"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
