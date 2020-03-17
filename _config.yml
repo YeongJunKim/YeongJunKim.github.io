@@ -99,9 +99,12 @@ author:
   location         : "seoul korea univ."
   email            : "dud3722000@gmail.com; dud3722000@naver.com"
   links:
-    - label: "Email"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+       url: "https://github.com/YeongJunKim"
+    - label: "Univ. email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:colson@korea.ac.kr
+      #url: mailto:colson@korea.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,9 +114,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://www.facebook.com/picolson"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/YeongJunKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
