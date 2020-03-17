@@ -101,7 +101,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/YeongJunKim"
+       url: "https://github.com/YeongJunKim"
     - label: "Univ. email"
       icon: "fas fa-fw fa-envelope-square"
       #url: mailto:colson@korea.ac.kr
