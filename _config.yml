@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "colson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/colson_pic.jpg"
   bio              : "developer colson."
   location         : "seoul korea univ."
   email            : "dud3722000@gmail.com; dud3722000@naver.com"
