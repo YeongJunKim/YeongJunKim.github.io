@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "colson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "make robot."
+  bio              : "developer colson."
   location         : "seoul korea univ."
   email            : "dud3722000@gmail.com; dud3722000@naver.com"
   links:
@@ -110,10 +110,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/picolson"
+      # url: "https://www.facebook.com/picolson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YeongJunKim"
+      # url: "https://github.com/YeongJunKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
