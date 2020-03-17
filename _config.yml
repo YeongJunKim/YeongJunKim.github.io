@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dev-colson"
+title                    : "Dev-COLSON"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "colson"
@@ -113,7 +113,7 @@ author:
       # url: "https://www.facebook.com/picolson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/YeongJunKim
+       url: "https://github.com/YeongJunKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
