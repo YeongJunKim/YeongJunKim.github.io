@@ -8,7 +8,6 @@ conda install -y python==3.6.9
 tensorflow-gpu==1.14
 keras==2.3.0
 CUDA=10.0
-
 ```
 [기본가이드](https://medium.com/@redowan/no-bullshit-guide-on-installing-tensorflow-gpu-ubuntu-18-04-18-10-238924cc4a6a)
 
